@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+}
+
+.ml-card {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.ml-card .header {
+  background-color: #AAF;
+  padding: 5px;
+  border: 0px solid #99D;
+  border-bottom: 1px;
+}
+
+.ml-card .tags {
+
+}
+
+.ml-card .tags .tag {
+  display: inline-block;
+  padding: 3px;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+  margin: 3px;
+}
+
+.ml-card .io {
+  display: flex;
+}
